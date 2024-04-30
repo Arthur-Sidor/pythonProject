@@ -9,4 +9,4 @@ Como Contribuir
 Se você tiver alguma sugestão de melhoria ou encontrar algum problema em algum dos projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é sempre bem-vinda!
 
 Contato
-Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para me encontrar no LinkedIn ou enviar um e-mail para seu_email@exemplo.com.
+Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para me encontrar no LinkedIn ou enviar um e-mail para arthur.sidor@gmail.com
