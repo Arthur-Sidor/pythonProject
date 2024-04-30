@@ -1,4 +1,3 @@
-Projetos do Curso de Análise e Desenvolvimento de Sistemas (ADS) da FIAP
 Bem-vindo ao repositório que contém os projetos desenvolvidos ao longo do curso de Análise e Desenvolvimento de Sistemas (ADS) na FIAP. Aqui você encontrará uma coleção de trabalhos práticos, exercícios e projetos que demonstro meu aprendizado e evolução ao longo do curso.
 
 Lista de Projetos
